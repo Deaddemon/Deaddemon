@@ -31,7 +31,7 @@
   <br>
 <p align="center">
     * In love with potato chips and React.<br> 
-  * Reach me at <i>extraname84@gmail.com</i>
+  * Reach me at <i>vinitapoonia333@gmail.com</i>
  </p> 
  
  
